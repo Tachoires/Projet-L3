@@ -3,6 +3,8 @@ Projet L3 EFREI IA et shooter tour par tour
 
 Pour le rendu des 60% du 13 mai : c'est L'AUTRE REPOSITORY! (ici, il y a que le projet final)
 
+IL FAUT PRENDRE LE DOSSIER : Projet ransverse définitif, pas l'autre.
+
 EDIT : edit d'une nouvelle version avec un .jar, plus facile a importer
 
 La version graphique arrive!
