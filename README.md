@@ -12,3 +12,7 @@ La version graphique arrive!
 Pour le path : dossier => spaceship => insérer les 6 classes dans un projet java avec un package nommé spaceship.
 
 attention, bien prendre les fichiers .java et pas .class (issus de la compression en .jar)
+
+EDIT FINAL : 
+
+Puisuqe on a eu 0 au github, pour que cela soit bien clair pour le correcteur : je remet AU PROPRE la version FINALE ET DEFINITIVE ici.
