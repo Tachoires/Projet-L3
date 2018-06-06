@@ -15,4 +15,4 @@ attention, bien prendre les fichiers .java et pas .class (issus de la compressio
 
 EDIT FINAL : 
 
-Puisuqe on a eu 0 au github, pour que cela soit bien clair pour le correcteur : je remet AU PROPRE la version FINALE ET DEFINITIVE ici.
+Puisuqe on a eu 0 au github, pour que cela soit bien clair pour le correcteur : je remet AU PROPRE la version FINALE ET DEFINITIVE dans PROJET FATALERROR FINAL. c'est EXACTEMENT le code que nous avons présenté lors de la soutenance.
